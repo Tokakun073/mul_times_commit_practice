@@ -9,4 +9,5 @@ int main()
     printf("5555\n");
     printf("6666\n");
     printf("7777\n");
+    printf("8888\n");
 }
