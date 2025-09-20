@@ -8,4 +8,5 @@ int main()
     printf("4444\n");
     printf("5555\n");
     printf("6666\n");
+    printf("7777\n");
 }
