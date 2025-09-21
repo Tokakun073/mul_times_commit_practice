@@ -1,4 +1,21 @@
 #include <stdio.h>
+#include <string.h>
+
+struct student
+{
+   int age;
+   char *name;
+};
+
+struct  teacher
+{
+    int age;
+    char *name;
+    int salary;
+};
+
+
+
 
 int main()
 {
@@ -14,6 +31,9 @@ int main()
     printf("AAAA\n");
     int a[3]={0};
     int b[3]={0};
-    int c[3]={0};
-    int d[3]={0};
+
+    struct student std1;
+    std1.age =17;
+    strncpy(std1.name,"haha",5);
+    printf("age=%d,name=%s\n",std1.age,std1.name);
 }
