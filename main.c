@@ -10,4 +10,6 @@ int main()
     printf("6666\n");
     printf("7777\n");
     printf("8888\n");
+    printf("9999\n");
+    printf("AAAA\n");
 }
