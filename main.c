@@ -12,4 +12,5 @@ int main()
     printf("8888\n");
     printf("9999\n");
     printf("AAAA\n");
+    int a[3]={0};
 }
