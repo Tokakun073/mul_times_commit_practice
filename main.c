@@ -31,6 +31,8 @@ int main()
     printf("AAAA\n");
     int a[3]={0};
     int b[3]={0};
+    int c[3]={0};
+    int d[3]={0};
 
     struct student std1;
     std1.age =17;
