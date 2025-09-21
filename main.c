@@ -16,4 +16,5 @@ int main()
     int b[3]={0};
     int c[3]={0};
     int d[3]={0};
+    int f[3]={0};
 }
