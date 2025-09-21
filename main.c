@@ -13,4 +13,5 @@ int main()
     printf("9999\n");
     printf("AAAA\n");
     int a[3]={0};
+    int b[3]={0};
 }
